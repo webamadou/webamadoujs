@@ -3,8 +3,11 @@
     <header id="header" class="header dark-background d-flex flex-column">
     <i class="header-toggle d-xl-none bi bi-list"></i>
 
-    <div class="profile-img">
-      <img src="assets/img/my-profile-img.jpeg" alt="" class="img-fluid rounded-circle">
+    <div class="profile-img"
+      style="background: url('assets/img/my-profile-img.jpeg');
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;">
     </div>
 
     <a href="index.html" class="logo d-flex align-items-center justify-content-center">
@@ -14,19 +17,19 @@
     </a>
 
     <div class="social-links text-center">
-      <a href="https://x.com/webamadou" class="twitter"><i class="bi bi-twitter-x"></i></a>
       <!-- <a href="#" class="facebook"><i class="bi bi-facebook"></i></a> -->
-      <!-- <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-      <a href="#" class="google-plus"><i class="bi bi-skype"></i></a> -->
-      <a href="https://linkedin.com/in/webamadou" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      <!-- <a href="#" class="google-plus"><i class="bi bi-skype"></i></a> -->
+      <a href="https://x.com/webamadou" class="twitter" target="_blank"><i class="bi bi-twitter-x"></i></a>
+      <a href="https://linkedin.com/in/webamadou" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
+      <a href="https://instagram.com/webamadou" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
     </div>
 
     <nav id="navmenu" class="navmenu">
       <ul>
-        <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Home</a></li>
-        <li><a href="#about"><i class="bi bi-person navicon"></i> About</a></li>
-        <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Resume</a></li>
-        <li><a href="#portfolio"><i class="bi bi-images navicon"></i> Portfolio</a></li>
+        <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>HOME</a></li>
+        <li><a href="#about"><i class="bi bi-person navicon"></i>WHO AM I</a></li>
+        <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i>RESUME</a></li>
+        <li><a href="#portfolio"><i class="bi bi-images navicon"></i> PORTFOLIO</a></li>
         <!-- <li><a href="#services"><i class="bi bi-hdd-stack navicon"></i> Services</a></li>
         <li class="dropdown"><a href="#"><i class="bi bi-menu-button navicon"></i> <span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
           <ul>
@@ -45,7 +48,7 @@
             <li><a href="#">Dropdown 4</a></li>
           </ul>
         </li> -->
-        <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Contact</a></li>
+        <li><a href="#contact"><i class="bi bi-envelope navicon"></i> CONTACT</a></li>
       </ul>
     </nav>
   </header>
@@ -218,7 +221,7 @@
             </div>
           </div><!-- End Info Item -->
 
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d978.6892855618461!2d-17.49354638004789!3d14.733389164543492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssn!4v1735237318278!5m2!1sen!2ssn" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
       <!-- End Contact Form -->
