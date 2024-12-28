@@ -117,59 +117,89 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
             <h3 class="resume-title">Sumary</h3>
-
-            <div class="resume-item pb-0">
-              <h4>Brandon Johnson</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
-              <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
-              </ul>
-            </div><!-- Edn Resume Item -->
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Professional License in Web Development &amp; Administration</h4>
+              <h5>2006 - 2011</h5>
+              <p><em>Univesriste Alioune Diop, Bambey, SENEGAL</em></p>
             </div><!-- Edn Resume Item -->
 
-            <div class="resume-item">
+            <!-- <div class="resume-item">
               <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
               <h5>2010 - 2014</h5>
               <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
               <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-            </div><!-- Edn Resume Item -->
+            </div> --><!-- Edn Resume Item -->
 
-          </div>
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
+              <H4>REMOTE PHP-LARAVEL CONSULTANT AT KYOS ENERGY CONSULTING</h4>
               <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <p><em>Remote</em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Development of the PHP based SaaS product of KYOS</li>
               </ul>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>FREELANCING</h4>
+              <h5>2017 - 2019</h5>
+              <p><em>FREELANCE</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>In charge of Web programming training Offered by GALIMATECH.</li>
+                <li>Build the website https://galima-academy.com.</li>
+                <li>Built websites gnsafrique.com, excellenc6.com, immovirtuo.com, lagenda.quebec</li>
+              </ul>
+            </div><!-- Edn Resume Item -->
+
+            <div class="resume-item">
+              <h4>JUNIOR WEB PROGRAMMER AT AFRICA24 NETWORK AGENCY</h4>
+              <h5>2016 - 2017</h5>
+              <p><em>Point E, Dakar, SENEGAL</em></p>
+              <ul>
+                <li>I was part of a team that built an events management web application with silex.</li>
+                <li> I also rebuild the design of the website africa24.com.</li>
+                <li>I was also in charge of managing the media tech server of Africa24 channel. </li>
+              </ul>
+            </div><!-- Edn Resume Item -->
+
+            <div class="resume-item">
+              <h4>PHP PROGRAMMER at TRACOM-INT</h4>
+              <h5>2015 - 2016</h5>
+              <p><em>Mariste, Dakar, SENEGAL</em></p>
+              <ul>
+                <li>I entirely rebuilt the website of the company with WordPress: http://tracom-int.com creating a custom theme for that.</li>
+                <li>I also redesign the web interface of the payment gateway GIM-Online.</li>
+              </ul>
+            </div><!-- Edn Resume Item -->
+
+            <div class="resume-item">
+              <h4>Co-Founder of elmadeal.com</h4>
+              <h5>2014 - 2018</h5>
+              <p><em> Dakar, SENEGAL</em></p>
+              <ul>
+                <li>I created and managed a web platform that allowed reservations at the beauty salons and spa in the city of Dakar.</li>
+              </ul>
+            </div><!-- Edn Resume Item -->
+
+            <div class="resume-item">
+              <h4>PHP PROGRAMMER SUNTELECOM</h4>
+              <h5>2013 - 2014</h5>
+              <p><em> Dakar, SENEGAL</em></p>
+              <ul>
+                <li>created an app to manage inner commands at NESTLE Senegal. I also participated in building a web application for real state management.</li>
+              </ul>
+            </div><!-- Edn Resume Item -->
+
+            <div class="resume-item">
+              <h4>INTERNSHIP FRONT END DEVELOPPER</h4>
+              <h5>2012 - 2013</h5>
+              <p><em> Dakar, SENEGAL</em></p>
+              <ul>
+                <li>Worked on turning PSD file into HTML-CSS and create a WordPress theme from it. In charge of creating the front-end of the website on-umami.com with RAILS</li>
               </ul>
             </div><!-- Edn Resume Item -->
 
@@ -184,53 +214,53 @@
     <!-- Contact Section -->
     <section id="contact" class="contact section">
 
-<!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>Contact</h2>
-    <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-  </div><!-- End Section Title -->
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
 
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-    <div class="row gy-4">
+        <div class="row gy-4">
 
-      <div class="col-lg-8 offset-2">
+          <div class="col-lg-8 offset-2">
 
-        <div class="info-wrap">
-          <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <i class="bi bi-geo-alt flex-shrink-0"></i>
-            <div>
-              <h3>Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+            <div class="info-wrap">
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h3>Address</h3>
+                  <p>Ouakam P7, Dakar, SENEGAL</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                <i class="bi bi-telephone flex-shrink-0"></i>
+                <div>
+                  <h3>Call Us</h3>
+                  <p>+221 77 269 35 16</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                <i class="bi bi-envelope flex-shrink-0"></i>
+                <div>
+                  <h3>Email Us</h3>
+                  <p>paab26@live.fr</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d978.6892855618461!2d-17.49354638004789!3d14.733389164543492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssn!4v1735237318278!5m2!1sen!2ssn" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
             </div>
-          </div><!-- End Info Item -->
+          </div>
+          <!-- End Contact Form -->
 
-          <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-            <i class="bi bi-telephone flex-shrink-0"></i>
-            <div>
-              <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
-            </div>
-          </div><!-- End Info Item -->
-
-          <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-            <i class="bi bi-envelope flex-shrink-0"></i>
-            <div>
-              <h3>Email Us</h3>
-              <p>info@example.com</p>
-            </div>
-          </div><!-- End Info Item -->
-
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d978.6892855618461!2d-17.49354638004789!3d14.733389164543492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssn!4v1735237318278!5m2!1sen!2ssn" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
+
       </div>
-      <!-- End Contact Form -->
-
-    </div>
-
-  </div>
-</section>
-<!-- /Contact Section -->
+    </section>
+    <!-- /Contact Section -->
 
 </main>
 
