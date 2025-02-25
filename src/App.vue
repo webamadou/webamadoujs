@@ -59,7 +59,7 @@
       <img src="assets/img/hero-bg.jpeg" alt="" data-aos="fade-in" class="">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <h2>Papa Amadou A. BA</h2>
-        <p>I build web applications with <span class="typed" data-typed-items="Laravel, Wordpress, VueJs, Figma, Sanity, Gasby">  </span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+        <p>I build web applications with <b style="color: #297bae; text-shadow: 1px 1px 2px #0f0f0f;">Laravel, Wordpress, VueJs, Figma, Sanity ...</b></p>
       </div>
     </section>
     <!-- /Hero Section -->
@@ -217,7 +217,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p> &nbsp; </p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
